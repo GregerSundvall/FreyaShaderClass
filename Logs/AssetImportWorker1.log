@@ -335,3 +335,140 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 11220.395529 seconds.
+  path: Assets/GMaterial.mat
+  artifactKey: Guid(fd8b5a4ef5e5e4845b9ef725f1a212ce) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/GMaterial.mat using Guid(fd8b5a4ef5e5e4845b9ef725f1a212ce) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8a866cd121460145cbeb7a9acecd1945') in 0.188908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Scripts/asdf.cs
+  artifactKey: Guid(7ea87ba6293336d40b9449783d9f6fac) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/asdf.cs using Guid(7ea87ba6293336d40b9449783d9f6fac) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a817aad62680120053f45fa106418bcb') in 0.008037 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Downloads/Bushes (by Yughues)/Meshes/Bush05.FBX
+  artifactKey: Guid(fe3ef29f6dae00344b41413c90b4cc57) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Downloads/Bushes (by Yughues)/Meshes/Bush05.FBX using Guid(fe3ef29f6dae00344b41413c90b4cc57) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7756d1fd44b47998d5521c9131719c4e') in 0.029979 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Downloads/Rocks (by Manufactura K4)/Models/Rock3.fbx
+  artifactKey: Guid(19ada405e483e2e42b3568b712163648) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Downloads/Rocks (by Manufactura K4)/Models/Rock3.fbx using Guid(19ada405e483e2e42b3568b712163648) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '16cf9627784a152dde80a5eb2423d485') in 0.011489 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Downloads/Rocks (by Manufactura K4)/Textures/Rock3.tif
+  artifactKey: Guid(27cfd5114f148ff49acff242847ce022) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Downloads/Rocks (by Manufactura K4)/Textures/Rock3.tif using Guid(27cfd5114f148ff49acff242847ce022) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '869efbbe0b60c94c1e8731d830461491') in 0.012293 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Downloads/Skybox (by hdrlabs.com)/Arches_E_PineTree_8k.jpg
+  artifactKey: Guid(ec0ca3415b1b66e4f8c5d29649102c85) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Downloads/Skybox (by hdrlabs.com)/Arches_E_PineTree_8k.jpg using Guid(ec0ca3415b1b66e4f8c5d29649102c85) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '131208a0a14576701faafb824a6f34d6') in 0.021407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Downloads/Textures (by Quixel)/Rock-Height.jpg
+  artifactKey: Guid(0333d2603fda62f449b37be875647573) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Downloads/Textures (by Quixel)/Rock-Height.jpg using Guid(0333d2603fda62f449b37be875647573) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '48859a13212db64bc663c088a344b0f5') in 0.009813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Downloads/Rocks (by Manufactura K4)/Models/Rock4.fbx
+  artifactKey: Guid(415a1cc574249824c902b084a5dc6096) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Downloads/Rocks (by Manufactura K4)/Models/Rock4.fbx using Guid(415a1cc574249824c902b084a5dc6096) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e1454554afcbf0f5a1bb2fe205773f08') in 0.009666 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Scenes/SampleSceneSettings.lighting
+  artifactKey: Guid(f10114be0e62e96408862d225afd73f5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/SampleSceneSettings.lighting using Guid(f10114be0e62e96408862d225afd73f5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '07d101e64913155b0641c1bc2a411ecd') in 0.010062 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Downloads/Textures (by Quixel)/Moss-Normal.png
+  artifactKey: Guid(70c2dea174320374cb0f4842a7091def) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Downloads/Textures (by Quixel)/Moss-Normal.png using Guid(70c2dea174320374cb0f4842a7091def) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0b26795468ed420168bba44cec5b40ae') in 0.010334 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Downloads/Bushes (by Yughues)/Meshes/Bush04.FBX
+  artifactKey: Guid(8f2212efada33cd4f929c4ca2c0162d8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Downloads/Bushes (by Yughues)/Meshes/Bush04.FBX using Guid(8f2212efada33cd4f929c4ca2c0162d8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4bd2fc4c64a47419e99aec96a6846d40') in 0.009406 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Downloads/Rocks (by Manufactura K4)/Textures/Rock1.tif
+  artifactKey: Guid(d0692a948ca573d4cb0b93ffb1c8a033) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Downloads/Rocks (by Manufactura K4)/Textures/Rock1.tif using Guid(d0692a948ca573d4cb0b93ffb1c8a033) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8eb6b86e53faf341af7de2cd4d4e1787') in 0.011585 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Downloads/Bushes (by Yughues)/Textures/Bush02_n.tga
+  artifactKey: Guid(11821533c3f1535419549afbeccb9bff) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Downloads/Bushes (by Yughues)/Textures/Bush02_n.tga using Guid(11821533c3f1535419549afbeccb9bff) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0a2f184c4781212f8a2e82001b047a84') in 0.011453 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Downloads/Bushes (by Yughues)/Textures/Bush04_n.tga
+  artifactKey: Guid(fd90dc93bb966f343bcf6302c2c8c0b5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Downloads/Bushes (by Yughues)/Textures/Bush04_n.tga using Guid(fd90dc93bb966f343bcf6302c2c8c0b5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9c23689ec7570feb84c7578d00bb3711') in 0.007462 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '95d85c7949156e7d57ba3572fb137f5f') in 0.006711 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Downloads/Bushes (by Yughues)/Meshes/Bush02.FBX
+  artifactKey: Guid(41212a0a5585e0243b25926856a1c30c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Downloads/Bushes (by Yughues)/Meshes/Bush02.FBX using Guid(41212a0a5585e0243b25926856a1c30c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4521b0cddc2b2a17eeef3eb5bdbf6868') in 0.008996 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Downloads/Rocks (by Manufactura K4)/Textures/Rock2.tif
+  artifactKey: Guid(162c810bf5419394188c1c46a5db065e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Downloads/Rocks (by Manufactura K4)/Textures/Rock2.tif using Guid(162c810bf5419394188c1c46a5db065e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '41d7944d1c98583f696160e8bd377c3c') in 0.006670 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Downloads/Rocks (by Manufactura K4)/Textures/Rock3_normals.tif
+  artifactKey: Guid(9097a6a42d07fe2479d0545fcd6b6280) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Downloads/Rocks (by Manufactura K4)/Textures/Rock3_normals.tif using Guid(9097a6a42d07fe2479d0545fcd6b6280) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '84467a8b3f03069ff2811763b0bd7b50') in 0.009166 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Textures/noise-smooth-rgb.png
+  artifactKey: Guid(6dd671eee8425594e9b9d00bcc512f45) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Textures/noise-smooth-rgb.png using Guid(6dd671eee8425594e9b9d00bcc512f45) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fa338dcf7b544226a6d427c710b29762') in 0.007953 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
