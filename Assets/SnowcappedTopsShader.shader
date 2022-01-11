@@ -63,8 +63,8 @@ Shader "Unlit/SnowcappedTopsShader"
                 // sample the texture
                 float4 texColor = tex2D( _MainTex, i.uv0 );
                 float4 snow = (1,1,1,.8f);
-                
-                float4 color = lerp(texColor, snow, saturate(i.worldPos.y -5));
+                //float angleMultiplier = i.worldNormal
+                float4 color = lerp(texColor, snow, saturate(i.worldPos.y -5) * i.worldNormal.y);
                 
                 return color;
             }
