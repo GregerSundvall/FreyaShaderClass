@@ -57,6 +57,7 @@ Shader "Unlit/SnowcappedTopsShader"
                 
                 return i;
             }
+            
 
             fixed4 frag (Interpolators i) : SV_Target
             {
